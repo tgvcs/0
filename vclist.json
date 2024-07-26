@@ -1,1 +1,8 @@
-[]
+[
+  {
+        "template": "VoyageBordereauAeroportV0",
+        "name": "Bordereau de voyage",
+        "description": "Bordereau voyage pour aeroport",
+        "source": "jxt"
+  },
+]
