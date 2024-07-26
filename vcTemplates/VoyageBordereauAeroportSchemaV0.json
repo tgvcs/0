@@ -42,7 +42,7 @@
             {
                 "path": "credentialSubject.nom",
                 "encoder": "string"
-            }
+            },
             {
                 "path": "credentialSubject.prenoms",
                 "encoder": "string"
