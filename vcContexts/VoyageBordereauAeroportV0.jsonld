@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "VoyageBordereauAeroportV0": {
+            "@id": "schema:VoyageBordereauAeroportV0",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "demandeNumero": "schema:name",
+                "nom": "schema:name",
+                "prenoms": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}
