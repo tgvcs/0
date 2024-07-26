@@ -36,9 +36,13 @@
                 "encoder": "string"
             },
             {
-                "path": "credentialSubject.nom",
+                "path": "credentialSubject.type",
                 "encoder": "string"
             },
+            {
+                "path": "credentialSubject.nom",
+                "encoder": "string"
+            }
             {
                 "path": "credentialSubject.prenoms",
                 "encoder": "string"
