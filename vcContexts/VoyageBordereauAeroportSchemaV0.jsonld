@@ -5,8 +5,8 @@
         "id": "@id",
         "type": "@type",
         "schema": "https://schema.org/",
-        "VoyageBordereauAeroportV0": {
-            "@id": "schema:VoyageBordereauAeroportV0",
+        "VoyageBordereauAeroportSchemaV0": {
+            "@id": "schema:VoyageBordereauAeroportSchemaV0",
             "@context": {
                 "@version": 1.1,
                 "@protected": true,
