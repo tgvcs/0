@@ -13,6 +13,13 @@
                 "demandeNumero": "schema:name",
                 "nom": "schema:name",
                 "prenoms": "schema:name",
+                "sexe": "schema:name",
+                "passportOuCni": "schema:name",
+                "telephone": "schema:name",
+                "compagnieAerienne": "schema:name",
+                "volNumero": "schema:name",
+                "venantDe": "schema:name",
+                "allantA": "schema:name",
                 "cat": "schema:name",
                 "exp": "schema:name",
                 "rat": "schema:name"
