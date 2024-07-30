@@ -48,6 +48,34 @@
                 "encoder": "string"
             },
             {
+                "path": "credentialSubject.sexe",
+                "encoder": "string"
+            },
+            {
+                "path": "credentialSubject.passportOuCni",
+                "encoder": "string"
+            },
+            {
+                "path": "credentialSubject.telephone",
+                "encoder": "string"
+            },
+            {
+                "path": "credentialSubject.compagnieAerienne",
+                "encoder": "string"
+            },
+            {
+                "path": "credentialSubject.volNumero",
+                "encoder": "string"
+            },
+            {
+                "path": "credentialSubject.venantDe",
+                "encoder": "string"
+            },
+            {
+                "path": "credentialSubject.allantA",
+                "encoder": "string"
+            },
+            {
                 "path": "credentialSubject.cat",
                 "encoder": "string"
             },
