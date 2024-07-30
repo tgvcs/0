@@ -20,6 +20,7 @@
                 "volNumero": "schema:name",
                 "venantDe": "schema:name",
                 "allantA": "schema:name",
+                "visa": "schema:name",
                 "cat": "schema:name",
                 "exp": "schema:name",
                 "rat": "schema:name"
