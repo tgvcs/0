@@ -76,6 +76,10 @@
                 "encoder": "string"
             },
             {
+                "path": "credentialSubject.visa",
+                "encoder": "string"
+            },
+            {
                 "path": "credentialSubject.cat",
                 "encoder": "string"
             },
