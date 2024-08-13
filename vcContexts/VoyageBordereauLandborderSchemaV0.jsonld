@@ -1,0 +1,30 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "VoyageBordereauLandborderSchemaV0": {
+            "@id": "schema:VoyageBordereauLandborderSchemaV0",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "demandeNumero": "schema:name",
+                "nom": "schema:name",
+                "prenoms": "schema:name",
+                "sexe": "schema:name",
+                "passportOuCni": "schema:name",
+                "telephone": "schema:name",
+                "transport": "schema:name",
+                "port": "schema:name",
+                "venantDe": "schema:name",
+                "allantA": "schema:name",
+                "visa": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}
