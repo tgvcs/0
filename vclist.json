@@ -5,4 +5,10 @@
         "description": "Bordereau voyage pour aeroport",
         "source": "jxt"
   },
+  {
+        "template": "McaclDiplomeCfaSchemaV0",
+        "name": "Diplôme cfa",
+        "description": "Diplôme obtenu en fin de formation",
+        "source": "jxt"
+  }
 ]
