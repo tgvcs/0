@@ -19,6 +19,7 @@
                 "compagnieAerienne": "schema:name",
                 "volNumero": "schema:name",
                 "venantDe": "schema:name",
+                "volDate": "schema:name",
                 "allantA": "schema:name",
                 "visa": "schema:name",
                 "cat": "schema:name",
