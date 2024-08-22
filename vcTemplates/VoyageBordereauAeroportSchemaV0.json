@@ -72,6 +72,10 @@
                 "encoder": "string"
             },
             {
+                "path": "credentialSubject.volDate",
+                "encoder": "string"
+            },
+            {
                 "path": "credentialSubject.allantA",
                 "encoder": "string"
             },
