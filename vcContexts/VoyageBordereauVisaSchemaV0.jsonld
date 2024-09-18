@@ -1,0 +1,41 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "VoyageBordereauAeroportSchemaV0": {
+            "@id": "schema:VoyageBordereauAeroportSchemaV0",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "demandeNumero": "schema:name",
+                "nom": "schema:name",
+                "prenoms": "schema:name",
+                "sexe": "schema:name",
+                "passportOuCni": "schema:name",
+                "telephone": "schema:name",
+                "compagnieAerienne": "schema:name",
+                "volNumero": "schema:name",
+                "venantDe": "schema:name",
+                "volDate": "schema:name",
+                "allantA": "schema:name",
+                "visa": "schema:name",
+                "visaPasseport": "schema:name",
+                "visaNationalite": "schema:name",
+                "visaMotif": "schema:name",
+                "visaEntree": "schema:name",
+                "visaNumero": "schema:name",
+                "visaType": "schema:name",
+                "visaDuree": "schema:name",
+                "visaRefPaiement": "schema:name",
+                "visaValideDe": "schema:name",
+                "visaValideAu": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}
