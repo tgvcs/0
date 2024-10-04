@@ -60,14 +60,6 @@
                 "encoder": "string"
             },
             {
-                "path": "credentialSubject.transport",
-                "encoder": "string"
-            },
-            {
-                "path": "credentialSubject.port",
-                "encoder": "string"
-            },
-            {
                 "path": "credentialSubject.venantDe",
                 "encoder": "string"
             },
