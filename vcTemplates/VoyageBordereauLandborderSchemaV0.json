@@ -60,19 +60,11 @@
                 "encoder": "string"
             },
             {
-                "path": "credentialSubject.transport",
+                "path": "credentialSubject.frontiere",
                 "encoder": "string"
             },
             {
-                "path": "credentialSubject.port",
-                "encoder": "string"
-            },
-            {
-                "path": "credentialSubject.venantDe",
-                "encoder": "string"
-            },
-            {
-                "path": "credentialSubject.allantA",
+                "path": "credentialSubject.pointDeControle",
                 "encoder": "string"
             },
             {
