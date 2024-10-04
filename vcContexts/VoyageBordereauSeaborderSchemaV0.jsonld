@@ -16,8 +16,6 @@
                 "sexe": "schema:name",
                 "passportOuCni": "schema:name",
                 "telephone": "schema:name",
-                "bateau": "schema:name",
-                "port": "schema:name",
                 "venantDe": "schema:name",
                 "allantA": "schema:name",
                 "visa": "schema:name",
