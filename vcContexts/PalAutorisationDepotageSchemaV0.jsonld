@@ -12,6 +12,7 @@
                 "@protected": true,
                 "refDocument": "schema:name",
                 "typeDocument": "schema:name",
+                "modeUtilisation": "schema:name",
                 "autoriteCompetente": "schema:name",
                 "nomSociete": "schema:name",
                 "nif": "schema:name",
