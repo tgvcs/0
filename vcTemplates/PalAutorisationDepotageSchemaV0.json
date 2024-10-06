@@ -32,10 +32,6 @@
                 "encoder": "isodatetime-epoch-base32"
             },
             {
-                "path": "credentialSubject.demandeNumero",
-                "encoder": "string"
-            },
-            {
                 "path": "credentialSubject.type",
                 "encoder": "string"
             },
