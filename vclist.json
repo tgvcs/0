@@ -6,6 +6,12 @@
         "source": "jxt"
   },
   {
+        "template": "PalAutorisationDepotageSchemaV0",
+        "name": "Autorisation de dépotage",
+        "description": "Document d'autorisation de dépôtage",
+        "source": "jxt"
+  },
+  {
         "template": "McaclDiplomeCfaSchemaV0",
         "name": "Diplôme cfa",
         "description": "Diplôme obtenu en fin de formation",
