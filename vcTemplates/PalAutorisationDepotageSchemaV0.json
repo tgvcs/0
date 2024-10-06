@@ -48,6 +48,10 @@
                 "encoder": "string"
             },
             {
+                "path": "credentialSubject.modeUtilisation",
+                "encoder": "string"
+            },
+            {
                 "path": "credentialSubject.autoriteCompetente",
                 "encoder": "string"
             },
