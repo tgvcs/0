@@ -1,0 +1,24 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "PalAutorisationDepotageSchemaV0": {
+            "@id": "schema:PalAutorisationDepotageSchemaV0",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "refDocument": "schema:name",
+                "typeDocument": "schema:name",
+                "autoriteCompetente": "schema:name",
+                "nomSociete": "schema:name",
+                "nif": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}
