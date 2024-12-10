@@ -16,5 +16,12 @@
         "name": "Diplôme cfa",
         "description": "Diplôme obtenu en fin de formation",
         "source": "jxt"
-  }
+  },
+  
+    {
+          "template": "SGGAutorisationDeSortieDuTerritoireSchemaV1",
+          "name": "Autorisation de sortie du territoire",
+          "description": "Document d'autorisation de sortie du territoire délivré par le Secrétariat Général du Gouvernement",
+          "source": "jxt"
+    }
 ]
